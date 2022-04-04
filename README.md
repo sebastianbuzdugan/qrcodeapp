@@ -36,3 +36,5 @@ alt="Flutter Tutorial - Barcode Scanner App YouTube video" width="480" border="1
 [youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
 [courses]: https://johannesmilke.teachable.com/p/home
 # qrcode
+# qrcode
+# qr
