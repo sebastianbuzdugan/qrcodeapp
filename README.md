@@ -39,3 +39,4 @@ alt="Flutter Tutorial - Barcode Scanner App YouTube video" width="480" border="1
 # qrcode
 # qr
 # qr
+# qr
